@@ -2,8 +2,8 @@ Project to have a simple LLM like chatgpt application
 
 To integrate LLM with python
 
-pip install openai
-pip install langchain
+pip install openai\
+pip install langchain\
 pip install streamlit
 
 To run the application:
